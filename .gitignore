@@ -1,0 +1,23 @@
+# Maven derleme çıktıları
+target/
+
+# Derlenmiş Java dosyaları ve günlükler
+*.class
+*.log
+hs_err_pid*
+
+# İşletim sistemi dosyaları
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+
+# Editör / IDE dosyaları
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# NOT: output/ozgecmis.pdf, assets/profil.jpg, src/ ve fonts/*.ttf bilerek dışlanmamıştır.
